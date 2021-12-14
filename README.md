@@ -1,7 +1,8 @@
-### Hi there 👋 Find me on
+# Hi there 👋 Find me on
 
-- [DougSchveninger repo on github](https://github.com/dschveninger/dougschveninger/)
-- [LinkedIn](https://www.linkedin.com/in/douschveninger/)
+- [Github Pages Static site](https://dschveninger.github.io/index.html) for information about me using Github Pages and git submodules to share data between repo and GitHub Pages
+- [github repo](https://github.com/dschveninger/dougschveninger/) for information about me in markdown format
+- [LinkedIn](https://www.linkedin.com/in/dougschveninger/)
 - [Twitter](https://twitter.com/ishootsportsstl)
 
 <!--
