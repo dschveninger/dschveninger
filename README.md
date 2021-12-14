@@ -1,4 +1,8 @@
-### Hi there 👋
+### Hi there 👋 Finf me on
+
+- [DougSchveninger repo on githu](https://github.com/dschveninger/dougschveninger/)
+- [LinkedIn](https://www.linkedin.com/in/douschveninger/)
+- [Twitter](https://twitter.com/ishootsportsstl)
 
 <!--
 **dschveninger/dschveninger** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
