@@ -1,6 +1,6 @@
-### Hi there 👋 Finf me on
+### Hi there 👋 Find me on
 
-- [DougSchveninger repo on githu](https://github.com/dschveninger/dougschveninger/)
+- [DougSchveninger repo on github](https://github.com/dschveninger/dougschveninger/)
 - [LinkedIn](https://www.linkedin.com/in/douschveninger/)
 - [Twitter](https://twitter.com/ishootsportsstl)
 
